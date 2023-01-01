@@ -15,6 +15,7 @@
     'about': '54a956ee7484475ab395d820f9f935dc',
     'subscribe': '5417dde34d404d55aeed65e01e954600',
     'contact': '904bdb0d0ce24e319049d8069e967c12',
+    'glossary': '82405609b3464902bb24a00091297d14',
     'Advice-for-new-PMs-still-relevant-for-veterans-Part-2': '70987e91d0e24b37a4a74f162dfa67ba',
     'Advice-for-new-PMs-still-relevant-for-veterans-Part-1': '08b13066657c485985fa454ea2cff354',
     'Know-where-your-candidate-will-grow': 'f7a4aa310d5e49949ecb34cda9acdeff',
