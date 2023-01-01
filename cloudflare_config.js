@@ -22,7 +22,16 @@
     'Goal-Setting-Best-Practices': '07737c1b8b4a412db793cdc88b5f3e9a',
     'Q-A-on-Relocating-to-Berlin': '63297c3f55004ac6aaa0ec6086ef19d9',
     'Goal-setting-Clarifying-terminology': 'b71f6f78bf2b4c07af1bca89637d62c5',
-  };
+    'Using-Notion-as-your-Blog': '1e75c0657f34468595b25bd4f7c181e4',
+    'Defining-your-startup-s-cultural-values': '1ef4a4d445c04f5681c48fea39f893f6',
+    'Breaking-into-Product-Management': 'b83e297920c344c8a7a93935bd63960e',
+    'Design-a-rock-solid-PM-onboarding-Part-1-Pre-game': '7c4a68e003d248f5bb28c175a613f38c',
+    'Design-a-rock-solid-PM-onboarding-Part-3-Partnership': 'e9b7122e88ff4991870ea5115a16cca2',
+    'Design-a-rock-solid-PM-onboarding-Part-2-The-plan': '6aaec89f9cd34062a1906d17afd259b4',
+    'How-to-create-your-Product-Vision-type': 'cf095600e3314a1abeed2152aee3c863',
+    'An-Open-Q-A': '8b68d9084db04e08aa14f7f9b904684e',
+    'Choosing-your-metrics': '41b2213cda5442a1be1443b428e192af',
+    'NPS-Useful-KPI-Vanity-Metric-or-Joke': '05feb13473644797813199514093ce90',
   
   /* Step 3: enter your page title and description for SEO purposes */
   /*COLIN UPDATED*/
