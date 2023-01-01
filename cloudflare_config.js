@@ -33,7 +33,8 @@
     'An-Open-Q-A': '8b68d9084db04e08aa14f7f9b904684e',
     'Choosing-your-metrics': '41b2213cda5442a1be1443b428e192af',
     'NPS-Useful-KPI-Vanity-Metric-or-Joke': '05feb13473644797813199514093ce90',
-  
+  };
+
   /* Step 3: enter your page title and description for SEO purposes */
   /*COLIN UPDATED*/
   const PAGE_TITLE = 'On Product, Tech, & Leadership';
