@@ -31,7 +31,7 @@
     'Design-a-rock-solid-PM-onboarding-Part-2-The-plan': '6aaec89f9cd34062a1906d17afd259b4',
     'How-to-create-your-Product-Vision-type': 'cf095600e3314a1abeed2152aee3c863',
     'An-Open-Q-A': '8b68d9084db04e08aa14f7f9b904684e',
-    'Choosing-your-metrics': '41b2213cda5442a1be1443b428e192af',
+    'Choosing-your-key-metrics': '41b2213cda5442a1be1443b428e192af',
     'NPS-Useful-KPI-Vanity-Metric-or-Joke': '05feb13473644797813199514093ce90',
   };
 
