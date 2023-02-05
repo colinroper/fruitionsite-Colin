@@ -51,6 +51,9 @@
     <style>
         /* Note: All data-block-id's will need to be replaced with the relevant IDs of your own website. */
         
+        /* Force vertical postition of main page icon (logo) */
+        div.notion-scroller > div > div > div > div > div > div > div.notion-record-icon {margin-top: -80px !important;}
+        
         /* Hide for left column on home page mobile */
         @media (max-width: 767px) {
             /* Spacer */       [data-block-id="01ce8358-c053-482b-b110-d873f957df21"] {display: none;}
