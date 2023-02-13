@@ -16,6 +16,8 @@
     'subscribe': '5417dde34d404d55aeed65e01e954600',
     'contact': '904bdb0d0ce24e319049d8069e967c12',
     'glossary': '82405609b3464902bb24a00091297d14',
+    'services': 'e23ccbec7fb843dcae2093d7c4bb571c',
+  
     'Advice-for-new-PMs-still-relevant-for-veterans-Part-2': '70987e91d0e24b37a4a74f162dfa67ba',
     'Advice-for-new-PMs-still-relevant-for-veterans-Part-1': '08b13066657c485985fa454ea2cff354',
     'Know-where-your-candidate-will-grow': 'f7a4aa310d5e49949ecb34cda9acdeff',
@@ -51,10 +53,10 @@
     <style>
         /* Note: All data-block-id's will need to be replaced with the relevant IDs of your own website. */
         
-        /* Force vertical postition of main page icon (logo) */
-        div.notion-scroller > div > div > div > div > div > div > div.notion-record-icon {margin-top: -80px !important;}
-        
-        /* Hide for left column on home page mobile */
+        /* PAUSED Force vertical postition of page icons (e.g. logo, emojis) */
+        /* div.notion-scroller > div > div > div > div > div > div > div.notion-record-icon {margin-top: -80px !important;} */
+
+        /* Hide left column for mobile devices on Home page */
         @media (max-width: 767px) {
             /* Spacer */       [data-block-id="01ce8358-c053-482b-b110-d873f957df21"] {display: none;}
             /* H. Line  */  [data-block-id="3b408e1d-f34f-43a4-92ae-7864af35e12e"] {display: none;}
@@ -62,6 +64,7 @@
             /* Glossary */ [data-block-id="82405609-b346-4902-bb24-a00091297d14"] {display: none;}
             /* Subscribe */ [data-block-id="5417dde3-4d40-4d55-aeed-65e01e954600"] {display: none;}
             /* About */     [data-block-id="54a956ee-7484-475a-b395-d820f9f935dc"] {display: none;}
+            /* Services */     [data-block-id="e23ccbec-7fb8-43dc-ae20-93d7c4bb571c"] {display: none;}
             /* Contact */   [data-block-id="904bdb0d-0ce2-4e31-9049-d8069e967c12"] {display: none;}
         }
 
@@ -80,6 +83,33 @@
 
         /* Center-align text under photo on About page */
         [data-block-id="35e405f5-4644-40bd-8665-9ee6b43f20f2"] {text-align: center;}
+
+        /* Center text of upper callout box on Services page */
+        [data-block-id="2c357e9f-3513-441a-8b40-7af78378811c"] {text-align: center !important;}
+
+        /* Change background color of upper callout box on Services page */
+        [data-block-id="2c357e9f-3513-441a-8b40-7af78378811c"] > div {background: rgba(2, 119, 189, 0.2) !important;}
+
+        /* Change padding upper callout box on Services page */
+        [data-block-id="2c357e9f-3513-441a-8b40-7af78378811c"] > div {padding: 0px 20px; !important;}
+
+        /* Change H1 text color on Services page */
+        [data-block-id="c1178518-d941-4fb3-96f7-bc28103b0cf5"] > div > div {color:rgba(2, 119, 189, 1) !important; fill:rgba(2, 119, 189, 1) !important;}
+        [data-block-id="20964190-baf6-4b7f-9c8d-d73a39eda858"] > div > div {color:rgba(2, 119, 189, 1) !important; fill:rgba(2, 119, 189, 1) !important;}
+        [data-block-id="e3f52b04-5e0b-42fc-94b1-d5366e55ad63"] > div > div {color:rgba(2, 119, 189, 1) !important; fill:rgba(2, 119, 189, 1) !important;}   
+
+        /* Center text below company logos on Services page */
+        [data-block-id="101c8232-f75b-416c-8ef7-963de9b57939"] {text-align: center !important;}
+
+        /* Center text for LinkedIn link on Services page */
+        [data-block-id="965c97c2-cfea-416c-a35f-3993cef3783a"] {text-align: center !important;}
+
+        /* Change background color of lower callout box on Services page */
+        [data-block-id="cdc2257c-cec5-4539-934c-4418175fd351"] > div {background: rgba(2, 119, 189, 0.2) !important;}
+
+        /* Center text of lower callout box on Services page */
+        [data-block-id="cdc2257c-cec5-4539-934c-4418175fd351"] {text-align: center !important;}
+
     </style>
     
     /* Find your Google Analytics ID here: https://support.google.com/analytics/answer/9539598?hl=en */
