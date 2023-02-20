@@ -26,7 +26,7 @@
     'Q-A-on-Relocating-to-Berlin': '63297c3f55004ac6aaa0ec6086ef19d9',
     'Goal-setting-Clarifying-terminology': 'b71f6f78bf2b4c07af1bca89637d62c5',
     'Using-Notion-as-your-Blog': '1e75c0657f34468595b25bd4f7c181e4',
-    'Defining-your-startup-s-cultural-values': '1ef4a4d445c04f5681c48fea39f893f6',
+    'Defining-your-startups-first-cultural-values': '1ef4a4d445c04f5681c48fea39f893f6',
     'Breaking-into-Product-Management': 'b83e297920c344c8a7a93935bd63960e',
     'Design-a-rock-solid-PM-onboarding-Part-1-Pre-game': '7c4a68e003d248f5bb28c175a613f38c',
     'Design-a-rock-solid-PM-onboarding-Part-3-Partnership': 'e9b7122e88ff4991870ea5115a16cca2',
