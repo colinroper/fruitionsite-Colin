@@ -70,7 +70,7 @@
         }
 
         /* Shrink footer font size */
-        [data-block-id="194956fc-0819-4a32-8755-4a1f7b035420"] {font-size: 12px;}
+        [data-block-id="2b138575-4a07-464c-8f80-684af21f03db"] {font-size: 12px;}
 
         /* Remove mini icons in gallery view */
         .notion-selectable .notion-collection_view-block .notion-record-icon.notranslate {display: none !important;}
