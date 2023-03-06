@@ -90,15 +90,15 @@
         [data-block-id="2c357e9f-3513-441a-8b40-7af78378811c"] {text-align: center !important;}
 
         /* Change background color of upper callout box on Services page */
-        [data-block-id="2c357e9f-3513-441a-8b40-7af78378811c"] > div {background: rgba(2, 119, 189, 0.2) !important;}
+        [data-block-id="2c357e9f-3513-441a-8b40-7af78378811c"] > div {background: rgba(240, 244, 247, 1) !important;}
 
         /* Change padding upper callout box on Services page */
         [data-block-id="2c357e9f-3513-441a-8b40-7af78378811c"] > div {padding: 0px 20px; !important;}
 
         /* Change H1 text color on Services page */
-        [data-block-id="c1178518-d941-4fb3-96f7-bc28103b0cf5"] > div > div {color:rgba(2, 119, 189, 1) !important; fill:rgba(2, 119, 189, 1) !important;}
-        [data-block-id="20964190-baf6-4b7f-9c8d-d73a39eda858"] > div > div {color:rgba(2, 119, 189, 1) !important; fill:rgba(2, 119, 189, 1) !important;}
-        [data-block-id="e3f52b04-5e0b-42fc-94b1-d5366e55ad63"] > div > div {color:rgba(2, 119, 189, 1) !important; fill:rgba(2, 119, 189, 1) !important;}   
+        [data-block-id="c1178518-d941-4fb3-96f7-bc28103b0cf5"] > div > div {color:rgba(107, 140, 177, 1) !important; fill:rgba(107, 140, 177, 1) !important;}
+        [data-block-id="20964190-baf6-4b7f-9c8d-d73a39eda858"] > div > div {color:rgba(107, 140, 177, 1) !important; fill:rgba(107, 140, 177, 1) !important;}
+        [data-block-id="e3f52b04-5e0b-42fc-94b1-d5366e55ad63"] > div > div {color:rgba(107, 140, 177, 1) !important; fill:rgba(107, 140, 177, 1) !important;}   
 
         /* Center text below company logos on Services page */
         [data-block-id="101c8232-f75b-416c-8ef7-963de9b57939"] {text-align: center !important;}
@@ -107,7 +107,7 @@
         [data-block-id="965c97c2-cfea-416c-a35f-3993cef3783a"] {text-align: center !important;}
 
         /* Change background color of lower callout box on Services page */
-        [data-block-id="cdc2257c-cec5-4539-934c-4418175fd351"] > div {background: rgba(2, 119, 189, 0.2) !important;}
+        [data-block-id="cdc2257c-cec5-4539-934c-4418175fd351"] > div {background: rgba(240, 244, 247, 1) !important;}
 
         /* Center text of lower callout box on Services page */
         [data-block-id="cdc2257c-cec5-4539-934c-4418175fd351"] {text-align: center !important;}
