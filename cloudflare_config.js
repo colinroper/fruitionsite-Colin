@@ -46,7 +46,7 @@
   
   /* Step 4: enter a Google Font name, you can choose from https://fonts.google.com */
   /*COLIN UPDATED*/
-  const GOOGLE_FONT = 'Roboto';
+  const GOOGLE_FONT = 'Open Sans';
   
   /* Step 5: enter any custom scripts you'd like */
   /*COLIN UPDATED*/
@@ -69,6 +69,13 @@
             /* Services */     [data-block-id="e23ccbec-7fb8-43dc-ae20-93d7c4bb571c"] {display: none;}
             /* Contact */   [data-block-id="904bdb0d-0ce2-4e31-9049-d8069e967c12"] {display: none;}
         }
+
+        /* Change Header font --> Doesn't work b/c Untitled changes font in the table view on home page and Heading doens't affect bold/italic text */
+        /* [placeholder="Untitled"] {font-family: 'Karla' !important;} */
+        /* [placeholder="Heading 1"] {font-family: 'Karla' !important;} */
+        /* [placeholder="Heading 2"] {font-family: 'Karla' !important;} */
+        /* [placeholder="Heading 3"] {font-family: 'Karla' !important;} */
+        /* [placeholder="Heading 4"] {font-family: 'Karla' !important;} */
 
         /* Shrink footer font size */
         [data-block-id="2b138575-4a07-464c-8f80-684af21f03db"] {font-size: 12px;}
