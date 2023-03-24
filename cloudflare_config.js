@@ -36,7 +36,7 @@
     'Choosing-your-key-metrics': '41b2213cda5442a1be1443b428e192af',
     'NPS-Useful-KPI-Vanity-Metric-or-Joke': '05feb13473644797813199514093ce90',
     'Narrow-your-target-customer': '3f73484af87a46aa86a2f1e50926e663',
-    'Empowerment-cuture-from-everyone': '85d735d3910a446d973f3955a24499ec',
+    'Empowerment-culture-from-everyone': '85d735d3910a446d973f3955a24499ec',
   };
 
   /* Step 3: enter your page title and description for SEO purposes */
