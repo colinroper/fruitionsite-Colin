@@ -213,6 +213,15 @@
       response = new Response(response.body, response);
       response.headers.set('Access-Control-Allow-Origin', '*');
       return response;
+    } else if (url.pathname.endsWith(".js")){
+    response = await fetch(url.toString());
+    let body = await response.text();
+    response = new Response(
+      body,
+      response
+    );
+    response.headers.set("Content-Type", "application/x-javascript");
+    return response;
     } else if (slugs.indexOf(url.pathname.slice(1)) > -1) {
       const pageId = SLUG_TO_PAGE[url.pathname.slice(1)];
       return Response.redirect('https://' + MY_DOMAIN + '/' + pageId, 301);
@@ -290,6 +299,7 @@
       element.append(`<div style="display:none">Powered by <a href="http://fruitionsite.com">Fruition</a></div>
       <script>
       window.CONFIG.domainBaseUrl = 'https://${MY_DOMAIN}';
+      localStorage.__console = true;
       const SLUG_TO_PAGE = ${JSON.stringify(this.SLUG_TO_PAGE)};
       const PAGE_TO_SLUG = {};
       const slugs = [];
