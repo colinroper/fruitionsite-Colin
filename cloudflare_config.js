@@ -17,6 +17,7 @@
     'contact': '904bdb0d0ce24e319049d8069e967c12',
     'glossary': '82405609b3464902bb24a00091297d14',
     'services': 'e23ccbec7fb843dcae2093d7c4bb571c',
+    'collaborate': 'e23ccbec7fb843dcae2093d7c4bb571c',
   
     'Advice-for-new-PMs-still-relevant-for-veterans-Part-2': '70987e91d0e24b37a4a74f162dfa67ba',
     'Advice-for-new-PMs-still-relevant-for-veterans-Part-1': '08b13066657c485985fa454ea2cff354',
