@@ -92,7 +92,13 @@
         div.notion-scroller > div[role=button]  {display: none !important;}
 
         /* Center-align text under photo on About page */
-        [data-block-id="35e405f5-4644-40bd-8665-9ee6b43f20f2"] {text-align: center;}
+        [data-block-id="f5ac2a32-d873-4903-86da-8ecef80019d4"],
+        [data-block-id="35e405f5-4644-40bd-8665-9ee6b43f20f2"],
+        [data-block-id="e23a90fe-5d3f-4a10-a4d9-f18fd4472e94"],
+        [data-block-id="6c506c59-030e-47dc-b9c2-24fe5f8a47b8"],
+        [data-block-id="19e15531-e3d2-4c86-90a4-b566ad62e64e"],
+        [data-block-id="75b5239d-acf1-48ac-97d3-a4d9175f4722"] 
+        {text-align: center;}
 
         /* Center text of upper callout box on Services page */
         [data-block-id="2c357e9f-3513-441a-8b40-7af78378811c"] {text-align: center !important;}
