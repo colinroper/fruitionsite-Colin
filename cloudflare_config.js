@@ -49,7 +49,12 @@
   /*COLIN UPDATED*/
   const GOOGLE_FONT = 'Open Sans';
   
-  /* Step 5: enter any custom scripts you'd like */
+  /* Step 5: Google analytics tag */
+  /*COLIN UPDATED*/
+  /* Find your Google Analytics ID here: https://support.google.com/analytics/answer/9539598?hl=en */
+  const GA_TAG = 'G-8HMRWWFJNR';
+
+  /* Step 6: enter any custom scripts you'd like */
   /*COLIN UPDATED*/
   const CUSTOM_SCRIPT = `
     <!-- Custom CSS styling -->
@@ -122,17 +127,6 @@
         [data-block-id="cdc2257c-cec5-4539-934c-4418175fd351"] > div {background: rgba(240, 244, 247, 1) !important; text-align: center !important; color:rgba(64, 89, 118, 1) !important;}
 
     </style>
-    
-    /* Find your Google Analytics ID here: https://support.google.com/analytics/answer/9539598?hl=en */
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8HMRWWFJNR"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-8HMRWWFJNR');
-    </script>
   `;
   
   /* CONFIGURATION ENDS HERE */
@@ -304,6 +298,16 @@
     }
     element(element) {
       element.append(`<div style="display:none">Powered by <a href="http://fruitionsite.com">Fruition</a></div>
+      
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_TAG}"></script>
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '${GA_TAG}');
+      </script>
+
       <script>
       window.CONFIG.domainBaseUrl = 'https://${MY_DOMAIN}';
       localStorage.__console = true;
