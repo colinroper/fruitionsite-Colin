@@ -86,12 +86,14 @@
         /* Remove mini icons in gallery view */
         .notion-selectable .notion-collection_view-block .notion-record-icon.notranslate {display: none !important;}
 
-        /* Hide sort and filter in gallery view for desktop */
-        div.notion-collection_view-block > div > div > div.notion-focusable:nth-of-type(1) {display: none !important;}
+        /* Hide sort, filter, automation icons in gallery view for desktop */
+        div.notion-collection_view-block > div > div:nth-child(2) > div:nth-of-type(1) {display: none !important;}
+        div.notion-collection_view-block > div > div:nth-child(2) > div:nth-of-type(2) {display: none !important;}
+        div.notion-collection_view-block > div > div:nth-child(2) > div:nth-of-type(3) {display: none !important;}
 
-        /* Hide sort and filter submenu in gallery view */
-        div.notion-scroller > div > div[role=button] {display: none !important;}
-        div.notion-scroller > div[role=button]  {display: none !important;}
+        /* Hide sort and filter submenu in gallery view for mobile */
+        div.notion-scroller > div > div[role=button] {display: none !important;} 
+        div.notion-scroller > div[role=button]  {display: none !important;} 
 
         /* Center-align text under photo on About page */
         [data-block-id="f5ac2a32-d873-4903-86da-8ecef80019d4"],
