@@ -92,7 +92,6 @@
         div.notion-scroller > div[role=button]  {display: none !important;}
 
         /* Center-align text under photo on About page */
-        /* Center-align text under photo on About page */
         [data-block-id="f5ac2a32-d873-4903-86da-8ecef80019d4"],
         [data-block-id="35e405f5-4644-40bd-8665-9ee6b43f20f2"],
         [data-block-id="e23a90fe-5d3f-4a10-a4d9-f18fd4472e94"],
