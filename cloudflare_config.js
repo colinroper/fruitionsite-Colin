@@ -39,7 +39,7 @@
     'Narrow-your-target-customer': '3f73484af87a46aa86a2f1e50926e663',
     'Empowerment-culture-comes-from-everyone': '85d735d3910a446d973f3955a24499ec',
     'Three-questions-for-identifying-your-main-business-priority': 'a74ed92cc8f74797b22cf99b7fdfba68',
-    'When-to-hire-your-first-Product-leader': '-'0b2b32fdeff34b06b9f784e90f076a48',
+    'When-to-hire-your-first-Product-leader': '0b2b32fdeff34b06b9f784e90f076a48',
   };
 
   /* Step 3: enter your page title and description for SEO purposes */
