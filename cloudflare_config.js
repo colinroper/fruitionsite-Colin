@@ -57,6 +57,9 @@
     <!-- Custom CSS styling -->
     <style>
         /* Note: All data-block-id's will need to be replaced with the relevant IDs of your own website. */
+
+        /* Remove Notion Branding from Top Bar - Mobile */
+        div.notion-topbar-mobile > div:nth-child(5) { display: none !important;} 
         
         /* PAUSED Force vertical postition of page icons (e.g. logo, emojis) */
         /* div.notion-scroller > div > div > div > div > div > div > div.notion-record-icon {margin-top: -80px !important;} */
