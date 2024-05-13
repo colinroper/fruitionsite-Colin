@@ -40,6 +40,7 @@
     'Empowerment-culture-comes-from-everyone': '85d735d3910a446d973f3955a24499ec',
     'Three-questions-for-identifying-your-main-business-priority': '6e818410cfcf4980a943ab1b6f81587e',
     'When-to-hire-your-first-Product-leader': '15875fd156844abcb120aa3a68aaecef',
+    'Getting-your-team-onboard-with-discovery-findings': '9ccad8d61bb049d2beab4eba35b2161f',
   };
 
   /* Step 3: enter your page title and description for SEO purposes */
