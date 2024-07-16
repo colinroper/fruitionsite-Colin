@@ -41,6 +41,12 @@
     'Three-questions-for-identifying-your-main-business-priority': '6e818410cfcf4980a943ab1b6f81587e',
     'When-to-hire-your-first-Product-leader': '15875fd156844abcb120aa3a68aaecef',
     'Getting-your-team-onboard-with-discovery-findings': '9ccad8d61bb049d2beab4eba35b2161f',
+    'North-star-KPIs-and-sitchen-sink': 'affe8d9599424848aa52e4fbf72c7181',
+    'Unified-theory-of-product-prioritization': '117bde4b2c9d4b46935603d8563c232f',
+    'Tactics-for-feature-awareness': '3a9366af25db4047ab857fb64c0ffaf5',
+    'Narrowing-your-initial-product-direction-Part-1': '21f387be86b14d5daa8e975c740f160a',
+    'Narrowing-your-initial-product-direction-Part-2': '876521852efd45589c26cfd62b307b88',
+    
   };
 
   /* Step 3: enter your page title and description for SEO purposes */
